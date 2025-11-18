@@ -1,0 +1,10 @@
+employee_id,last_name,first_name,title,reports_to,levels,hire_date,address,email
+1,Adams,Andrew,General Manager,9,L6,14-08-2016 00:00,11120 Jasper Ave NW,andrew@chinookcorp.com
+2,Edwards,Nancy,Sales Manager,1,L4,1/5/16 00:00,825 8 Ave SW,nancy@chinookcorp.com
+3,Peacock,Jane,Sales Support Agent,2,L1,1/4/17 00:00,1111 6 Ave SW,jane@chinookcorp.com
+4,Park,Margaret,Sales Support Agent,2,L1,3/5/17 00:00,683 10 Street SW,margaret@chinookcorp.com
+5,Johnson,Steve,Sales Support Agent,2,L1,17-10-2017 00:00,7727B 41 Ave,steve@chinookcorp.com
+6,Mitchell,Michael,IT Manager,1,L3,17-10-2016 00:00,5827 Bowness Road NW,michael@chinookcorp.com
+7,King,Robert,IT Staff,6,L2,2/1/17 00:00,590 Columbia Boulevard West,robert@chinookcorp.com
+8,Callahan,Laura,IT Staff,6,L2,4/3/17 00:00,923 7 ST NW,laura@chinookcorp.com
+9,Madan,Mohan,Senior General Manager,,L7,14-01-2016 00:00,1008 Vrinda Ave MT,madan.mohan@chinookcorp.com
